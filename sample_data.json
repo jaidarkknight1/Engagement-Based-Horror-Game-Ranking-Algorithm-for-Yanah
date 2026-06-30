@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Don't Leave Me Here",
+    "total_plays": 56,
+    "unique_sessions": 38,
+    "finish_rate": 29,
+    "avg_rating": 0,
+    "avg_session_time": 0
+  },
+  {
+    "title": "Test Game A",
+    "total_plays": 25,
+    "unique_sessions": 20,
+    "finish_rate": 80,
+    "avg_rating": 0,
+    "avg_session_time": 0
+  },
+  {
+    "title": "Test Game B",
+    "total_plays": 70,
+    "unique_sessions": 30,
+    "finish_rate": 15,
+    "avg_rating": 0,
+    "avg_session_time": 0
+  }
+]
